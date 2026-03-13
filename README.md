@@ -36,7 +36,7 @@ I'm actively seeking opportuities where I can learn and develop new technical sk
 
 ## Featured Projects 💻
 
-### Project 1 - Arduino Project (In Development)
+To Be Developed
 
 ## Get in Touch 📬
 
