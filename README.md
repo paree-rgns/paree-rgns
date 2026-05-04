@@ -10,14 +10,14 @@ I'm a passionate **Computer Science Undergraduate** with experience in **Front-E
 I'm actively seeking opportuities where I can learn and develop new technical skills as a software engineer. I love tackling complex problems, learning new skills, and collaborating with others to create innovative solutions.
 
 - 🌱 Currently learning: **C, Astro/Flask (see below section - University Classes)**
-- 🔭 Working on: **Personal Arduino Projects**
+- 🔭 Working on: **Personal Projects**
 - 🌍 Languages: 
     - Coding: **Python, C++ (Arduino), HTML, CSS, JavaScript, SQL (MySQL)**
-    - Natural: **Fluent English, Korean (Fluent Reading/Writing - I watch too many shows :), Kurdish (Sorani - bit broken but good enough)**
+    - Natural: **Fluent English, Korean (Fluent Reading/Writing - I watch too much Youtube :), Kurdish (Sorani - bit broken but good enough)**
 - 📫 How to reach me: 
     - Email: **paree2016@hotmail.com**
     - LinkedIn: **www.linkedin.com/in/pareeruggins**
-- ⚡ Personal Hobbies: **Sports, Reading Non-Fiction Books, Learning Modern Languages**
+- ⚡ Personal Hobbies: **Sports/Gym, Reading Non-Fiction Books, Learning Modern Languages, Watching Cat Reels**
 
 ## My Skills 🧠
 
